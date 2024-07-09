@@ -1,5 +1,3 @@
-```markdown
-
 # K-Nearest Neighbors (KNN) Implementation
 
 This repository contains two Jupyter notebooks demonstrating the implementation of the K-Nearest Neighbors (KNN) algorithm on 2D and 3D artificial datasets. The notebooks follow the guide provided by DigitalOcean's community tutorial on KNN in Python.
