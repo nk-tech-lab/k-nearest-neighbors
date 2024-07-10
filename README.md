@@ -1,6 +1,3 @@
-Sure! Here's an updated README with the description for `knn_no_sklearn.ipynb` added:
-
-```markdown
 # K-Nearest Neighbors (KNN) Implementation
 
 This repository contains three Jupyter notebooks demonstrating the implementation of the K-Nearest Neighbors (KNN) algorithm on 2D and 3D artificial datasets. The notebooks follow the guide provided by DigitalOcean's community tutorial on KNN in Python.
